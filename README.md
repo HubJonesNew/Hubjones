@@ -1,3 +1,3 @@
 # Hubjones
 Izin min
-git clonehttps://github.com/HubJonesNew/Hubjones
+git clone https://github.com/HubJonesNew/Hubjones
